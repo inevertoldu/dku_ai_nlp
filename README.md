@@ -23,4 +23,4 @@ https://forms.gle/7Tiz5oZqeRQNynKH9
 제출은 아래의 링크를 통해 가능합니다.
 https://forms.gle/xsToPiUB8LYeCGyEA
 
-[![문헌 연구에 대한 이해](http://img.youtube.com/vi/RdzZBHKzCSI/sddefault.jpg)](https://youtu.be/RdzZBHKzCSI?t=0s) 
+[![파이썬을 활용한 웹스크레이핑](http://img.youtube.com/vi/CT1RB1Tm5sw/sddefault.jpg)](https://youtu.be/CT1RB1Tm5sw?t=0s) 
