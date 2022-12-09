@@ -21,5 +21,6 @@ https://forms.gle/7Tiz5oZqeRQNynKH9
 
 자신이 관심있는 논문 또는 주제를 대상으로 네이버 또는 빅카인즈, RISS로부터 검색해 데이터를 얻는 방법을 수행해 보기바랍니다.
 제출은 아래의 링크를 통해 가능합니다.
+https://forms.gle/xsToPiUB8LYeCGyEA
 
 [![문헌 연구에 대한 이해](http://img.youtube.com/vi/RdzZBHKzCSI/sddefault.jpg)](https://youtu.be/RdzZBHKzCSI?t=0s) 
