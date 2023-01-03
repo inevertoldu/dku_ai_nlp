@@ -36,7 +36,7 @@ https://forms.gle/gYp6Lboj2XGcRq4G7
 
 [![파이썬을 활용한 텍스트 전처리와 분류](http://img.youtube.com/vi/ce-1Uo1nNcg/sddefault.jpg)](https://youtu.be/ce-1Uo1nNcg?t=0s) 
 
-<br>br>
-## 수집된 텍스트를 활용한 분류
-파이썬을 이용한 비지도학습 기반의 분류에 대해 다룹니다.
-(제주 폭설로 인해 갇혀 있어서 다음 주(12월 마지막 주)에 업로드될 예정입니다.)
+<br><br>
+## 수집된 텍스트를 활용한 범주화와 동향 분석
+파이썬을 이용한 비지도학습 기반의 분류(K-Means + UMAP + Transformer)에 대해 다룹니다.
+[![파이썬을 활용한 범주화와 동향 분석](http://img.youtube.com/vi/oZZKZMTngKo/sddefault.jpg)](https://youtu.be/oZZKZMTngKo?t=0s) 
