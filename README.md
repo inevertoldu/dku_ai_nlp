@@ -39,4 +39,7 @@ https://forms.gle/gYp6Lboj2XGcRq4G7
 <br><br>
 ## 수집된 텍스트를 활용한 범주화와 동향 분석
 파이썬을 이용한 비지도학습 기반의 분류(K-Means + UMAP + Transformer)에 대해 다룹니다.
+각각의 초록에 해당하는 문서를 BERT를 활용해 임베딩한 뒤, UMAP을 이용해 차원 축소(768차원 -> 2차원)를 거치며,
+이 데이터들을 비지도학습 기반으로 K-Means clustering을 해 유사한 성격의 연구끼리 묶도록 합니다.
+그리고 묶인 연구에 대한 요약은 T5를 이용하도록 구현하였습니다.
 [![파이썬을 활용한 범주화와 동향 분석](http://img.youtube.com/vi/oZZKZMTngKo/sddefault.jpg)](https://youtu.be/oZZKZMTngKo?t=0s) 
